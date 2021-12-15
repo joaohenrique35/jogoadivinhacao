@@ -1,0 +1,56 @@
+
+
+body{
+
+    color: azure;
+    background-color: black;
+    margin: 10%;
+
+}
+
+mark {
+    font-size: 3em;
+    font-family: 'Syne Mono', monospace;
+
+}
+
+h1 {
+    font-family: 'Barrio', cursive;
+    text-align: center;
+    font-size: 3em;
+    color: greenyellow
+}
+
+p {
+    font-size: 1.5em;
+    font-family: 'Syne Mono', monospace;
+    text-align: justify;
+    text-indent: 100px;
+
+}
+
+strong {
+    text-shadow: 5px 2px 10px greenyellow;
+}
+
+img {
+    width: 200px;
+}
+
+div{
+
+    display: inline-block;
+    width:460px;
+    text-align: center;
+    
+    
+}
+
+.rodape {
+    font-size: 0.9em;
+    text-align: center;
+    margin-top: 45px;
+    color: greenyellow;
+    opacity: 50%;
+    font-family: 'Syne Mono', monospace;
+}
